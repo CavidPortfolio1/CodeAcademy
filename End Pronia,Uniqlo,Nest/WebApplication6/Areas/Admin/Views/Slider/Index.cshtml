@@ -1,0 +1,42 @@
+﻿@using WebApplication6.Models
+@model List<Slider>
+<div class="container" >
+	<div class="all" style="display:flex; justify-content:space-between; padding-top:10px;">
+		<div class="adminBtnLeft">
+			<a type="button" class="btn btn-success green" asp-controller="Slider" asp-action="Create" >Create</a>
+		</div>
+		<div class="adminBtnRight">
+			<div class="adminBtnRightAll">
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<table class="table">
+	<thead>
+	<td>Basliq</td>
+	<tr class="table-primary">
+		<th scope="col">Name</th>
+		<th scope="col">Discount</th>
+		<th scope="col">Description</th>
+		<th scope="col">Image</th>
+	</tr>
+	</thead>
+	<tbody> 
+          @foreach (var item in Model)
+          {
+	          <tr class="table-secondary">
+		          <td>@item.Name</td>
+		          <td>@item.Discount</td>
+		          <td>@item.Description</td>
+		          <td><img src="~/assets/images/product/medium-size/@item.ImgUrl" alt="Alternate Text" style="width:100px; height: auto; margin:auto;"/></td>
+		          <td>
+			          <a type="button" class="btn btn-secondary" asp-controller="Slider" asp-action="Update" asp-route-id="@item.Id">Update</a>
+			          <a type="button" class="btn btn-danger red" asp-action="Delete" asp-controller="Slider" asp-route-id="@item.Id">Delete</a>
+		          </td>
+	          </tr>
+          }
+	</tbody>
+</table>
