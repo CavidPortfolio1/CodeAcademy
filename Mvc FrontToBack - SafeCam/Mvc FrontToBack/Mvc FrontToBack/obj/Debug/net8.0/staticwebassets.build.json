@@ -1,0 +1,4760 @@
+{
+  "Version": 1,
+  "Hash": "qjrGyK3qo9yhZAlDvZSQI0g6obOSGc+jfBg86AeEONk=",
+  "Source": "Mvc FrontToBack",
+  "BasePath": "_content/Mvc FrontToBack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mvc FrontToBack\\wwwroot",
+      "Source": "Mvc FrontToBack",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "duincht39z",
+      "Integrity": "20Bi2oc6TJ6foj1f6Pt9pmUmBFZKx1WUMlTdLONk3uw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\style.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8smpqugzhn",
+      "Integrity": "aG4z4eLEHfOrml9ZtagDvmEtRvRtrEWEQ1sjidKTsBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\about.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/about#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6nr5tmvydu",
+      "Integrity": "MuBRoFwnNb8lRSzH3Mlnn8vdui40IrvO7fnpd6M5m+o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\about.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-1.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/blog-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "88ifpwtz7h",
+      "Integrity": "+CztYlNp+PSB9chn3cJ54dK684HvAhBYYoTgkE67ZMY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-2.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/blog-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ktb07vnbo",
+      "Integrity": "mGmHeFeqX6uMmBukhm7SZRc/5ZHrRvsHlADwtjenljQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/carousel-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3w4ggk28x4",
+      "Integrity": "w3yLoXoroDklLH6Ur3u6AI4+67Yn+9CPzjSwebYqycM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/carousel-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4987mkb47s",
+      "Integrity": "iHsT1nB1Znk+77G6QEGpn9U9NwdP+TwYTz4pCHwsJ5k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/carousel-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2q4w9pe9c6",
+      "Integrity": "6qzeHUMD1WNeFTR9Lfihqb4+QcIhDIJe52wWgFryXrA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-1.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/team-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xmjndfk9m",
+      "Integrity": "N0pKTrltwjyCYqp2nVoBXaDas0ACkUGRJe0caTPb5d8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-2.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/team-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t0y1fxdxyw",
+      "Integrity": "fQVt5gYsMXlOR/KHJyzcnLPEDqy6fpr5G83jhp6kxqg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-3.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/team-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hp7gdfrtx1",
+      "Integrity": "+7t+27YU8/nZjmawDVbcgeFokgW36kxtVg1H9WXYNaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/testimonial-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "asyhuil0c2",
+      "Integrity": "pn8iFxQWxDSzYSu8CVdxXNE7VSMo8zD5uk64+woOJ8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/testimonial-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g20j89izyj",
+      "Integrity": "6MwFeuPoYVOpgP9s23m8GiJQ33mezH7/SdVWtV3SqQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/testimonial-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hjlgs3dwfa",
+      "Integrity": "89aTx4FaOLy2onuRJeirgMyBTnmWzUieKZRG/cZs21M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-4.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/testimonial-4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gu9o68x90i",
+      "Integrity": "KIIm4JdjFAm3n06BByTizlPc8Ql/oc0H4pXHZY01BUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\user.jpg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/img/user#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v4ay94iume",
+      "Integrity": "z0AyXH9qDJF9yTAwnq5B50hU5orhwZkEgrZ654TSUDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\user.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\js\\main.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k219kw6dva",
+      "Integrity": "rCGmWZex0JtgwhAdfOVtlDBfubyAjwSkWevFMGN3Ek0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/animate/animate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pfslj4f41e",
+      "Integrity": "ywmrBXLGplSaeC4oQyGMAChctzeuUP4ppQYcqWr/AjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\animate\\animate.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/animate/animate.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "591ybqkhud",
+      "Integrity": "2U2YrENpqdsD57QEBEW5ItcaRqsAZfM9sh8VfoQ2xt0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/easing/easing#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4cpzj38bla",
+      "Integrity": "/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/easing/easing.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1z0o21rrk",
+      "Integrity": "kB64DMP4wnT+ZxG9AjiEJYg5YQySdAgqSIH3HiIGtPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\backup.txt",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/backup#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mwresrhepi",
+      "Integrity": "xvwfvPyVk0YEMJccRd9+5gtkZHWa3m8HAOjSyEwqpPw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\backup.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6yddbtusj0",
+      "Integrity": "3uYNwnWoKTVvqz/fy53C6M8OQjP0Es/ck9wUBNKCUOc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.eot",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ydf3dt5hw",
+      "Integrity": "WTuv3uC08aAuo6Fgw8cGs5SlXiiKV7Y2CFiLWlHo/+4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.eot"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.html",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "616xqp0mnr",
+      "Integrity": "NoUH65aDg8Lof9rDgRMgRTWGj+q12HCVsdTBVnfSFhY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.scss",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6zyawqrzh2",
+      "Integrity": "bvg8/+8hys6L37201yJXFLAbJ/t7R/TaCZgjfl/MMC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.scss"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.svg",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9sqiirlvtu",
+      "Integrity": "5/mK4StFRJayREwsOHS5EFV2FQbnk/H4de45eWYWqK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.ttf",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n4e6v8ab0z",
+      "Integrity": "B4wTzIcrMiEHnercjPl2WaTvBdttrMAsBgGoQ8TACAw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "660nrzjsig",
+      "Integrity": "Ygj4FxCHW9+qrLbT2vubcd+XItXWQX73pvw1or6V5Ms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff2",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/font/flaticon#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qw3xst04ms",
+      "Integrity": "9j2ncsbpUkmpf5cp8pEBWAtzgH1RXs3IrSjm7KCEKcQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\license\\license.pdf",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/flaticon/license/license#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cyzmyzdhgc",
+      "Integrity": "fMJdJyaKAzzmXExTjMcTdspdULeMwhsL8rQlc25PEUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/ajax-loader#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uwe6z5aqkv",
+      "Integrity": "Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/owl.carousel#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fynx4m6ffa",
+      "Integrity": "h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j3wy3vomxf",
+      "Integrity": "AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.default#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3sqe7mmf4b",
+      "Integrity": "7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bvb3mcnxs0",
+      "Integrity": "KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.green#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rstaz3qrjg",
+      "Integrity": "WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.green.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ktijcimzc",
+      "Integrity": "31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/assets/owl.video.play#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8sku8kfko",
+      "Integrity": "BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0d6diem58",
+      "Integrity": "j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/owl.carousel#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vqiqdzfsy",
+      "Integrity": "hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/owlcarousel/owl.carousel.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xre24ck5s9",
+      "Integrity": "s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/waypoints/links#[.{fingerprint}]?.php",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6nqirqydf5",
+      "Integrity": "Yloy7ifQpC8+aX8PSHQg7mjack0mJXLqgw0XNOGQccs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/waypoints/waypoints.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uydiqv09h2",
+      "Integrity": "No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/wow/wow#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apjpr24drr",
+      "Integrity": "/vKngQqIlbEPXOkCpDyu7KIYoAbw1btO3QBl86vywhI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\wow\\wow.js"
+    },
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "SourceId": "Mvc FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\",
+      "BasePath": "_content/Mvc FrontToBack",
+      "RelativePath": "assets/lib/wow/wow.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v5kyrhpytd",
+      "Integrity": "bXYAixEupwCRnp7B75ePbEqNfpTM9FlJIEhmJdbzZIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\lib\\wow\\wow.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"20Bi2oc6TJ6foj1f6Pt9pmUmBFZKx1WUMlTdLONk3uw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jun 2021 14:30:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-20Bi2oc6TJ6foj1f6Pt9pmUmBFZKx1WUMlTdLONk3uw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap.min.duincht39z.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"20Bi2oc6TJ6foj1f6Pt9pmUmBFZKx1WUMlTdLONk3uw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Jun 2021 14:30:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duincht39z"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-20Bi2oc6TJ6foj1f6Pt9pmUmBFZKx1WUMlTdLONk3uw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.8smpqugzhn.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aG4z4eLEHfOrml9ZtagDvmEtRvRtrEWEQ1sjidKTsBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 15:26:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8smpqugzhn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aG4z4eLEHfOrml9ZtagDvmEtRvRtrEWEQ1sjidKTsBY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/style.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aG4z4eLEHfOrml9ZtagDvmEtRvRtrEWEQ1sjidKTsBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 15:26:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aG4z4eLEHfOrml9ZtagDvmEtRvRtrEWEQ1sjidKTsBY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/about.6nr5tmvydu.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MuBRoFwnNb8lRSzH3Mlnn8vdui40IrvO7fnpd6M5m+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6nr5tmvydu"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/about.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MuBRoFwnNb8lRSzH3Mlnn8vdui40IrvO7fnpd6M5m+o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/about.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MuBRoFwnNb8lRSzH3Mlnn8vdui40IrvO7fnpd6M5m+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MuBRoFwnNb8lRSzH3Mlnn8vdui40IrvO7fnpd6M5m+o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-1.88ifpwtz7h.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+CztYlNp+PSB9chn3cJ54dK684HvAhBYYoTgkE67ZMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88ifpwtz7h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/blog-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+CztYlNp+PSB9chn3cJ54dK684HvAhBYYoTgkE67ZMY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-1.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+CztYlNp+PSB9chn3cJ54dK684HvAhBYYoTgkE67ZMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+CztYlNp+PSB9chn3cJ54dK684HvAhBYYoTgkE67ZMY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-2.8ktb07vnbo.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGmHeFeqX6uMmBukhm7SZRc/5ZHrRvsHlADwtjenljQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ktb07vnbo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/blog-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGmHeFeqX6uMmBukhm7SZRc/5ZHrRvsHlADwtjenljQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-2.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGmHeFeqX6uMmBukhm7SZRc/5ZHrRvsHlADwtjenljQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGmHeFeqX6uMmBukhm7SZRc/5ZHrRvsHlADwtjenljQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/carousel-1.3w4ggk28x4.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3yLoXoroDklLH6Ur3u6AI4+67Yn+9CPzjSwebYqycM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3w4ggk28x4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/carousel-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3yLoXoroDklLH6Ur3u6AI4+67Yn+9CPzjSwebYqycM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/carousel-1.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3yLoXoroDklLH6Ur3u6AI4+67Yn+9CPzjSwebYqycM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3yLoXoroDklLH6Ur3u6AI4+67Yn+9CPzjSwebYqycM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/carousel-2.4987mkb47s.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iHsT1nB1Znk+77G6QEGpn9U9NwdP+TwYTz4pCHwsJ5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4987mkb47s"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/carousel-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iHsT1nB1Znk+77G6QEGpn9U9NwdP+TwYTz4pCHwsJ5k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/carousel-2.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iHsT1nB1Znk+77G6QEGpn9U9NwdP+TwYTz4pCHwsJ5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iHsT1nB1Znk+77G6QEGpn9U9NwdP+TwYTz4pCHwsJ5k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/carousel-3.2q4w9pe9c6.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qzeHUMD1WNeFTR9Lfihqb4+QcIhDIJe52wWgFryXrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2q4w9pe9c6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/carousel-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qzeHUMD1WNeFTR9Lfihqb4+QcIhDIJe52wWgFryXrA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/carousel-3.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qzeHUMD1WNeFTR9Lfihqb4+QcIhDIJe52wWgFryXrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qzeHUMD1WNeFTR9Lfihqb4+QcIhDIJe52wWgFryXrA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/team-1.5xmjndfk9m.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0pKTrltwjyCYqp2nVoBXaDas0ACkUGRJe0caTPb5d8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xmjndfk9m"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/team-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0pKTrltwjyCYqp2nVoBXaDas0ACkUGRJe0caTPb5d8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/team-1.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0pKTrltwjyCYqp2nVoBXaDas0ACkUGRJe0caTPb5d8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0pKTrltwjyCYqp2nVoBXaDas0ACkUGRJe0caTPb5d8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/team-2.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fQVt5gYsMXlOR/KHJyzcnLPEDqy6fpr5G83jhp6kxqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fQVt5gYsMXlOR/KHJyzcnLPEDqy6fpr5G83jhp6kxqg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/team-2.t0y1fxdxyw.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fQVt5gYsMXlOR/KHJyzcnLPEDqy6fpr5G83jhp6kxqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0y1fxdxyw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/team-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fQVt5gYsMXlOR/KHJyzcnLPEDqy6fpr5G83jhp6kxqg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/team-3.hp7gdfrtx1.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+7t+27YU8/nZjmawDVbcgeFokgW36kxtVg1H9WXYNaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp7gdfrtx1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/team-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+7t+27YU8/nZjmawDVbcgeFokgW36kxtVg1H9WXYNaE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/team-3.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+7t+27YU8/nZjmawDVbcgeFokgW36kxtVg1H9WXYNaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+7t+27YU8/nZjmawDVbcgeFokgW36kxtVg1H9WXYNaE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-1.asyhuil0c2.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pn8iFxQWxDSzYSu8CVdxXNE7VSMo8zD5uk64+woOJ8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asyhuil0c2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/testimonial-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pn8iFxQWxDSzYSu8CVdxXNE7VSMo8zD5uk64+woOJ8g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-1.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pn8iFxQWxDSzYSu8CVdxXNE7VSMo8zD5uk64+woOJ8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pn8iFxQWxDSzYSu8CVdxXNE7VSMo8zD5uk64+woOJ8g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-2.g20j89izyj.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6MwFeuPoYVOpgP9s23m8GiJQ33mezH7/SdVWtV3SqQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g20j89izyj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/testimonial-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6MwFeuPoYVOpgP9s23m8GiJQ33mezH7/SdVWtV3SqQ0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-2.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6MwFeuPoYVOpgP9s23m8GiJQ33mezH7/SdVWtV3SqQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6MwFeuPoYVOpgP9s23m8GiJQ33mezH7/SdVWtV3SqQ0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-3.hjlgs3dwfa.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"89aTx4FaOLy2onuRJeirgMyBTnmWzUieKZRG/cZs21M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjlgs3dwfa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/testimonial-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-89aTx4FaOLy2onuRJeirgMyBTnmWzUieKZRG/cZs21M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-3.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"89aTx4FaOLy2onuRJeirgMyBTnmWzUieKZRG/cZs21M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-89aTx4FaOLy2onuRJeirgMyBTnmWzUieKZRG/cZs21M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-4.gu9o68x90i.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIIm4JdjFAm3n06BByTizlPc8Ql/oc0H4pXHZY01BUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gu9o68x90i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/testimonial-4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KIIm4JdjFAm3n06BByTizlPc8Ql/oc0H4pXHZY01BUo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/testimonial-4.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIIm4JdjFAm3n06BByTizlPc8Ql/oc0H4pXHZY01BUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KIIm4JdjFAm3n06BByTizlPc8Ql/oc0H4pXHZY01BUo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/user.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\user.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z0AyXH9qDJF9yTAwnq5B50hU5orhwZkEgrZ654TSUDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z0AyXH9qDJF9yTAwnq5B50hU5orhwZkEgrZ654TSUDg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/user.v4ay94iume.jpg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\user.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z0AyXH9qDJF9yTAwnq5B50hU5orhwZkEgrZ654TSUDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 14:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v4ay94iume"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/user.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z0AyXH9qDJF9yTAwnq5B50hU5orhwZkEgrZ654TSUDg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/main.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rCGmWZex0JtgwhAdfOVtlDBfubyAjwSkWevFMGN3Ek0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 08:26:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rCGmWZex0JtgwhAdfOVtlDBfubyAjwSkWevFMGN3Ek0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/main.k219kw6dva.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rCGmWZex0JtgwhAdfOVtlDBfubyAjwSkWevFMGN3Ek0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 08:26:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k219kw6dva"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rCGmWZex0JtgwhAdfOVtlDBfubyAjwSkWevFMGN3Ek0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/animate/animate.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ywmrBXLGplSaeC4oQyGMAChctzeuUP4ppQYcqWr/AjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ywmrBXLGplSaeC4oQyGMAChctzeuUP4ppQYcqWr/AjQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/animate/animate.min.591ybqkhud.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2U2YrENpqdsD57QEBEW5ItcaRqsAZfM9sh8VfoQ2xt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "591ybqkhud"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/animate/animate.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2U2YrENpqdsD57QEBEW5ItcaRqsAZfM9sh8VfoQ2xt0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/animate/animate.min.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2U2YrENpqdsD57QEBEW5ItcaRqsAZfM9sh8VfoQ2xt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2U2YrENpqdsD57QEBEW5ItcaRqsAZfM9sh8VfoQ2xt0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/animate/animate.pfslj4f41e.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ywmrBXLGplSaeC4oQyGMAChctzeuUP4ppQYcqWr/AjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pfslj4f41e"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/animate/animate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ywmrBXLGplSaeC4oQyGMAChctzeuUP4ppQYcqWr/AjQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/easing/easing.4cpzj38bla.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4cpzj38bla"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/easing/easing.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/easing/easing.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/easing/easing.min.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kB64DMP4wnT+ZxG9AjiEJYg5YQySdAgqSIH3HiIGtPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kB64DMP4wnT+ZxG9AjiEJYg5YQySdAgqSIH3HiIGtPs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/easing/easing.min.s1z0o21rrk.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kB64DMP4wnT+ZxG9AjiEJYg5YQySdAgqSIH3HiIGtPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1z0o21rrk"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/easing/easing.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kB64DMP4wnT+ZxG9AjiEJYg5YQySdAgqSIH3HiIGtPs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/backup.mwresrhepi.txt",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\backup.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xvwfvPyVk0YEMJccRd9+5gtkZHWa3m8HAOjSyEwqpPw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mwresrhepi"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/backup.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xvwfvPyVk0YEMJccRd9+5gtkZHWa3m8HAOjSyEwqpPw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/backup.txt",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\backup.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xvwfvPyVk0YEMJccRd9+5gtkZHWa3m8HAOjSyEwqpPw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xvwfvPyVk0YEMJccRd9+5gtkZHWa3m8HAOjSyEwqpPw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.1ydf3dt5hw.eot",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTuv3uC08aAuo6Fgw8cGs5SlXiiKV7Y2CFiLWlHo/+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ydf3dt5hw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTuv3uC08aAuo6Fgw8cGs5SlXiiKV7Y2CFiLWlHo/+4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.616xqp0mnr.html",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NoUH65aDg8Lof9rDgRMgRTWGj+q12HCVsdTBVnfSFhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "616xqp0mnr"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NoUH65aDg8Lof9rDgRMgRTWGj+q12HCVsdTBVnfSFhY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.660nrzjsig.woff",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ygj4FxCHW9+qrLbT2vubcd+XItXWQX73pvw1or6V5Ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "660nrzjsig"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ygj4FxCHW9+qrLbT2vubcd+XItXWQX73pvw1or6V5Ms="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.6yddbtusj0.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3uYNwnWoKTVvqz/fy53C6M8OQjP0Es/ck9wUBNKCUOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6yddbtusj0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3uYNwnWoKTVvqz/fy53C6M8OQjP0Es/ck9wUBNKCUOc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.6zyawqrzh2.scss",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvg8/+8hys6L37201yJXFLAbJ/t7R/TaCZgjfl/MMC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6zyawqrzh2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvg8/+8hys6L37201yJXFLAbJ/t7R/TaCZgjfl/MMC0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.9sqiirlvtu.svg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5/mK4StFRJayREwsOHS5EFV2FQbnk/H4de45eWYWqK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9sqiirlvtu"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5/mK4StFRJayREwsOHS5EFV2FQbnk/H4de45eWYWqK0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3uYNwnWoKTVvqz/fy53C6M8OQjP0Es/ck9wUBNKCUOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3uYNwnWoKTVvqz/fy53C6M8OQjP0Es/ck9wUBNKCUOc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.eot",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTuv3uC08aAuo6Fgw8cGs5SlXiiKV7Y2CFiLWlHo/+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTuv3uC08aAuo6Fgw8cGs5SlXiiKV7Y2CFiLWlHo/+4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.html",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NoUH65aDg8Lof9rDgRMgRTWGj+q12HCVsdTBVnfSFhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NoUH65aDg8Lof9rDgRMgRTWGj+q12HCVsdTBVnfSFhY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.n4e6v8ab0z.ttf",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B4wTzIcrMiEHnercjPl2WaTvBdttrMAsBgGoQ8TACAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n4e6v8ab0z"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B4wTzIcrMiEHnercjPl2WaTvBdttrMAsBgGoQ8TACAw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.qw3xst04ms.woff2",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9j2ncsbpUkmpf5cp8pEBWAtzgH1RXs3IrSjm7KCEKcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qw3xst04ms"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/font/flaticon.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9j2ncsbpUkmpf5cp8pEBWAtzgH1RXs3IrSjm7KCEKcQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.scss",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvg8/+8hys6L37201yJXFLAbJ/t7R/TaCZgjfl/MMC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvg8/+8hys6L37201yJXFLAbJ/t7R/TaCZgjfl/MMC0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.svg",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5/mK4StFRJayREwsOHS5EFV2FQbnk/H4de45eWYWqK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5/mK4StFRJayREwsOHS5EFV2FQbnk/H4de45eWYWqK0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.ttf",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B4wTzIcrMiEHnercjPl2WaTvBdttrMAsBgGoQ8TACAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B4wTzIcrMiEHnercjPl2WaTvBdttrMAsBgGoQ8TACAw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.woff",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ygj4FxCHW9+qrLbT2vubcd+XItXWQX73pvw1or6V5Ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ygj4FxCHW9+qrLbT2vubcd+XItXWQX73pvw1or6V5Ms="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/font/flaticon.woff2",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9j2ncsbpUkmpf5cp8pEBWAtzgH1RXs3IrSjm7KCEKcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9j2ncsbpUkmpf5cp8pEBWAtzgH1RXs3IrSjm7KCEKcQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/license/license.cyzmyzdhgc.pdf",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\license\\license.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fMJdJyaKAzzmXExTjMcTdspdULeMwhsL8rQlc25PEUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cyzmyzdhgc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/flaticon/license/license.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fMJdJyaKAzzmXExTjMcTdspdULeMwhsL8rQlc25PEUo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/flaticon/license/license.pdf",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\license\\license.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fMJdJyaKAzzmXExTjMcTdspdULeMwhsL8rQlc25PEUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Jun 2021 09:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fMJdJyaKAzzmXExTjMcTdspdULeMwhsL8rQlc25PEUo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/ajax-loader.gif",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/ajax-loader.uwe6z5aqkv.gif",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uwe6z5aqkv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/ajax-loader.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.carousel.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.carousel.fynx4m6ffa.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fynx4m6ffa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/owl.carousel.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.carousel.min.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.carousel.min.j3wy3vomxf.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j3wy3vomxf"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/owl.carousel.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.default.3sqe7mmf4b.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3sqe7mmf4b"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/owl.theme.default.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.default.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.default.min.bvb3mcnxs0.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvb3mcnxs0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/owl.theme.default.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.green.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.green.min.1ktijcimzc.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ktijcimzc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/owl.theme.green.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.theme.green.rstaz3qrjg.css",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rstaz3qrjg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/owl.theme.green.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.video.play.png",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/assets/owl.video.play.s8sku8kfko.png",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8sku8kfko"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/assets/owl.video.play.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/LICENSE",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/LICENSE.x0d6diem58",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0d6diem58"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/owl.carousel.8vqiqdzfsy.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vqiqdzfsy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/owl.carousel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/owl.carousel.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/owlcarousel/owl.carousel.min.xre24ck5s9.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Feb 2017 23:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xre24ck5s9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/owlcarousel/owl.carousel.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/waypoints/links.6nqirqydf5.php",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yloy7ifQpC8+aX8PSHQg7mjack0mJXLqgw0XNOGQccs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 02 Jan 2018 18:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6nqirqydf5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/waypoints/links.php"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yloy7ifQpC8+aX8PSHQg7mjack0mJXLqgw0XNOGQccs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/waypoints/links.php",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yloy7ifQpC8+aX8PSHQg7mjack0mJXLqgw0XNOGQccs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 02 Jan 2018 18:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yloy7ifQpC8+aX8PSHQg7mjack0mJXLqgw0XNOGQccs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/waypoints/waypoints.min.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2017 10:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/waypoints/waypoints.min.uydiqv09h2.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Nov 2017 10:59:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uydiqv09h2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/waypoints/waypoints.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/wow/wow.apjpr24drr.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/vKngQqIlbEPXOkCpDyu7KIYoAbw1btO3QBl86vywhI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apjpr24drr"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/wow/wow.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/vKngQqIlbEPXOkCpDyu7KIYoAbw1btO3QBl86vywhI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/wow/wow.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/vKngQqIlbEPXOkCpDyu7KIYoAbw1btO3QBl86vywhI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/vKngQqIlbEPXOkCpDyu7KIYoAbw1btO3QBl86vywhI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/wow/wow.min.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXYAixEupwCRnp7B75ePbEqNfpTM9FlJIEhmJdbzZIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXYAixEupwCRnp7B75ePbEqNfpTM9FlJIEhmJdbzZIY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/lib/wow/wow.min.v5kyrhpytd.js",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXYAixEupwCRnp7B75ePbEqNfpTM9FlJIEhmJdbzZIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jan 2018 13:14:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5kyrhpytd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/lib/wow/wow.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXYAixEupwCRnp7B75ePbEqNfpTM9FlJIEhmJdbzZIY="
+        }
+      ]
+    }
+  ]
+}

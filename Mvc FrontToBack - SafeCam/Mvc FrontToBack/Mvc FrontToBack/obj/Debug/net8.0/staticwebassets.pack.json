@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\font\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\font\\flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\assets\\lib\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\AB107\\Admin Panel - #\\Mvc FrontToBack\\Mvc FrontToBack\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mvc FrontToBack.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mvc FrontToBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Mvc FrontToBack.props",
+      "PackagePath": "build\\Mvc FrontToBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mvc FrontToBack.props",
+      "PackagePath": "buildMultiTargeting\\Mvc FrontToBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mvc FrontToBack.props",
+      "PackagePath": "buildTransitive\\Mvc FrontToBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
